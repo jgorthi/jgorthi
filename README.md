@@ -5,7 +5,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 
 **I am currently searching for a new job opportunities where I can make a impact with my problem solving skills**
 
-* 🌍  I'm based in **Texas**
+* 🌍  I'm based in **Texas, USA**
 * ✉️  You can contact me at [jgorthi@asu.edu](mailto:jgorthi@asu.edu)
 * 🧠 I am an **Computer Science Enthusiast** and an aspiring **Software Developer**
 * 🌱 I’m currently focusing on **DSA**
