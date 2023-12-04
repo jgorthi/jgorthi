@@ -12,10 +12,10 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 * 👯 I’m looking forward to **be a part of various interesting projects.**
 * 🤝 I’m eager to know about **opportunities that will help me in expanding my potential.**
 
-<p align="center">
+<!-- <p align="center">
 <img alt="GIF" src="https://github.com/jgorthi/jgorthi/blob/main/code.gif?raw=true" width="500"/> 
 </p>
-<hr/>
+<hr/> -->
 
 ### Skills
 <p align="center">
