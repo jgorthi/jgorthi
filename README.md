@@ -1,7 +1,7 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) I am Jaswanth
 ===================================================================================================================================
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=jgorthi&label=Profile%20views&color=0e75b6&style=flat" alt="jgorthi" /> </p>
+<!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=jgorthi&label=Profile%20views&color=0e75b6&style=flat" alt="jgorthi" /> </p> -->
 
 **I am currently searching for a new job opportunities where I can make a impact with my problem solving skills**
 
